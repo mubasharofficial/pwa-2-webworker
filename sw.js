@@ -1,0 +1,1 @@
+console.log("Welcoem to web worker");
